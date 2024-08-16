@@ -1,12 +1,4 @@
 # Medical-Data-Visualizer
 
-# This entrypoint file to be used in development. Start by reading README.md
-import medical_data_visualizer
-from unittest import main
+This is the boilerplate for the Medical Data Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
 
-# Test your function by calling it here
-medical_data_visualizer.draw_cat_plot()
-medical_data_visualizer.draw_heat_map()
-
-# Run unit tests automatically
-main(module='test_module', exit=False)
